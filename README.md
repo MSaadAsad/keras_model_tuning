@@ -11,15 +11,15 @@ It's easy! You just need to click the "Open in Colab" button at the top of the J
 
 ## Environment
 - Google Colaboratory
-- Python: 3.6.7
-- scikit-learn: 0.20.2.
+- Python: 3.10
+- scikit-learn: 1.3.2
 - Keras: 2.2.4
 - TensorFlow: 1.12.0
 - Pandas: 0.22.0
 - Numpy: 1.14.6
 - Matplotlib: 2.1.2
 - Seaborn: 0.7.1
-- XGBoost: 0.7.post4
+- XGBoost: 1.26.4
 
 
 ## License
